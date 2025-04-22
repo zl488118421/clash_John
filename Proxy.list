@@ -49,7 +49,7 @@ DOMAIN-SUFFIX,nivodi.com
 DOMAIN-SUFFIX,fqkeji.net
 DOMAIN-SUFFIX,sun-panel.top
 DOMAIN-SUFFIX,freenom.com
-DOMAIN-SUFFIX,johnzhou.cc.ua
+DOMAIN-WILDCARD,*.johnzhou.cc.ua
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
